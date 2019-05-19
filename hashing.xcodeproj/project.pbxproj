@@ -29,6 +29,7 @@
 		06CC52FC2291FAD30062F809 /* linear.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = linear.hpp; sourceTree = "<group>"; };
 		06CC52FD2291FB0B0062F809 /* defs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = defs.h; sourceTree = "<group>"; };
 		06CC52FE2291FB3B0062F809 /* linear.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = linear.cpp; sourceTree = "<group>"; };
+		06F57C2C2291FF6400480DAE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 				06CC52F52291FAAA0062F809 /* main.cpp */,
 				06CC52FD2291FB0B0062F809 /* defs.h */,
 				06CC52FC2291FAD30062F809 /* linear.hpp */,
+				06F57C2C2291FF6400480DAE /* README.md */,
 				06CC52FE2291FB3B0062F809 /* linear.cpp */,
 			);
 			path = hashing;
